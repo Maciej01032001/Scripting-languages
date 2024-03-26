@@ -8,6 +8,6 @@ The code used to be entirely in Polish; before uploading it, I translated user m
 
 To do: 
 
-[ ] Upgrade formatting
+[] Upgrade formatting
 
-[ ] Upgrade filtering
+[] Upgrade filtering
