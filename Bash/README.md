@@ -1,4 +1,4 @@
-#Program purpose: Processing the provided text into a bag of words model.
+# Program purpose: Processing the provided text into a bag of words model.
   
   Bag of words is a model that disregards the order of words but counts their occurrences."
 Thanks to this, we can determine the general topic of the text and compare it to others."
