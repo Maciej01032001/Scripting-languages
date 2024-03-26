@@ -7,5 +7,7 @@
 The code used to be entirely in Polish; before uploading it, I translated user messages so that it could be of further use.
 
 To do: 
+
 [ ] Upgrade formatting
+
 [ ] Upgrade filtering
